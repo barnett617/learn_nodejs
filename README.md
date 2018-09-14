@@ -22,3 +22,8 @@ Node VS Java
 - [google-v8-helloworld-demo](https://chromium.googlesource.com/v8/v8/+/master/samples/hello-world.cc)
 - [sf-javascript引擎——V8](https://segmentfault.com/a/1190000014370171)
 - [sf-JavaScript、Node.js与V8的关系](https://segmentfault.com/a/1190000014722508)
+- [ryf-node-event-loop](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
+- [event-loop-timers-and-nexttick](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+- [JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
+- [node-event-loop](https://flaviocopes.com/node-event-loop/)
