@@ -14,6 +14,11 @@ Node VS Java
 
 参考链接：
 
-[freecodecamp-What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
-[ryf-Node 定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
-[runoob](http://www.runoob.com/nodejs/nodejs-buffer.html)
+- [nodejs](https://nodejs.org/docs/latest/api/perf_hooks.html)
+- [freecodecamp-What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
+- [ryf-Node 定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
+- [runoob](http://www.runoob.com/nodejs/nodejs-buffer.html)
+- [juejin-nodejs源码—初始化](https://juejin.im/post/5b93fdd76fb9a05cf7157525)
+- [google-v8-helloworld-demo](https://chromium.googlesource.com/v8/v8/+/master/samples/hello-world.cc)
+- [sf-javascript引擎——V8](https://segmentfault.com/a/1190000014370171)
+- [sf-JavaScript、Node.js与V8的关系](https://segmentfault.com/a/1190000014722508)
