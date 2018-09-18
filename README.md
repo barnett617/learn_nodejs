@@ -27,3 +27,5 @@ Node VS Java
 - [JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [node-event-loop](https://flaviocopes.com/node-event-loop/)
+- [7-days-nodejs](https://nqdeng.github.io/7-days-nodejs/#4.1)
+- [模块化（CommonJs、AMD、CMD、UMD）发展历史与优缺点](https://www.cnblogs.com/iceJava/p/5399715.html)
